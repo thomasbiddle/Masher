@@ -1,0 +1,14 @@
+Masher - Mashable Reader
+
+This is a personal project I'm working on whenever I have free time. I found the Official Mashable Android Application to be very aggravating to use for a number of reasons - and it also does not follow proper Android Design Guidelines. My original purpose in this was just to solve all of those issues and make an aesthetically pleasing application to use - but it may turn into something else in the future.
+
+
+
+TODO:
+
+Finish PHP XML Auto-Save Backend
+Rewrite the applications XML parser to fit the backend
+Listview needs images
+Rewrite how it is saving the data so it doesn't get lost after clicking on the tabs
+Icons
+Sure there's more as well...
